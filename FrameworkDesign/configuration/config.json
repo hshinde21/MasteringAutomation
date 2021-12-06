@@ -1,0 +1,5 @@
+{
+  "browserName": "Chrome",
+  "implicit_wait": 10,
+  "endpoint" : "/store"
+}
